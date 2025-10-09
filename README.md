@@ -7,8 +7,8 @@
   <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1700286332983/0d08fff8-f535-4387-96d6-5f65c0706c03.gif" width="325" alt="AWS Gif" style="border: 4px solid #FF9900; border-radius: 15px; box-shadow: 0px 0px 20px #FF9900;">
 </p>
 
-<h1 align="center">Hi 👋, I'm Venugopal Nayak </h1>
-<h3 align="center">🚀 AI/ML Student | ☁ AWS Cloud Enthusiast | 💻 Web Developer</h3>
+<h1 align="center">Hi 👋, I'm Venugopal </h1>
+<h3 align="center">🚀 CSE(AI/ML) Student | ☁ AWS Cloud Enthusiast | 💻 Web Developer</h3>
 
 ---
 
